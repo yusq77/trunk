@@ -1,0 +1,228 @@
+18-12-11 11:28:01 test:sort.cpp:51 $ 1
+18-12-11 11:28:01 test:sort.cpp:51 $ 2
+18-12-11 11:28:01 test:sort.cpp:51 $ 3
+18-12-11 11:28:01 test:sort.cpp:51 $ 4
+18-12-11 11:28:01 test:sort.cpp:51 $ 5
+18-12-11 11:28:01 test:sort.cpp:51 $ 6
+18-12-11 11:28:01 test:sort.cpp:51 $ 7
+18-12-11 11:28:01 test:sort.cpp:51 $ 8
+18-12-11 11:28:01 test:sort.cpp:51 $ 9
+18-12-11 11:28:01 test:sort.cpp:51 $ 10
+18-12-11 11:28:01 test:sort.cpp:53 $ 
+
+18-12-11 12:41:57 test:sort.cpp:53 $ 10
+18-12-11 12:41:57 test:sort.cpp:53 $ 6
+18-12-11 12:41:57 test:sort.cpp:53 $ 5
+18-12-11 12:41:57 test:sort.cpp:53 $ 2
+18-12-11 12:41:57 test:sort.cpp:53 $ 3
+18-12-11 12:41:57 test:sort.cpp:53 $ 8
+18-12-11 12:41:57 test:sort.cpp:53 $ 7
+18-12-11 12:41:57 test:sort.cpp:53 $ 4
+18-12-11 12:41:57 test:sort.cpp:53 $ 9
+18-12-11 12:41:57 test:sort.cpp:53 $ 1
+18-12-11 12:41:57 test:sort.cpp:55 $ 
+
+18-12-11 12:46:44 test:sort.cpp:54 $ 10
+18-12-11 12:46:44 test:sort.cpp:54 $ 6
+18-12-11 12:46:44 test:sort.cpp:54 $ 5
+18-12-11 12:46:44 test:sort.cpp:54 $ 2
+18-12-11 12:46:44 test:sort.cpp:54 $ 3
+18-12-11 12:46:44 test:sort.cpp:54 $ 8
+18-12-11 12:46:44 test:sort.cpp:54 $ 7
+18-12-11 12:46:44 test:sort.cpp:54 $ 4
+18-12-11 12:46:44 test:sort.cpp:54 $ 9
+18-12-11 12:46:44 test:sort.cpp:54 $ 1
+18-12-11 12:46:44 test:sort.cpp:57 $ 
+
+18-12-11 12:50:57 test:sort.cpp:55 $ 1
+18-12-11 12:50:57 test:sort.cpp:55 $ 2
+18-12-11 12:50:57 test:sort.cpp:55 $ 3
+18-12-11 12:50:57 test:sort.cpp:55 $ 4
+18-12-11 12:50:57 test:sort.cpp:55 $ 5
+18-12-11 12:50:57 test:sort.cpp:55 $ 6
+18-12-11 12:50:57 test:sort.cpp:55 $ 7
+18-12-11 12:50:57 test:sort.cpp:55 $ 8
+18-12-11 12:50:57 test:sort.cpp:55 $ 9
+18-12-11 12:50:57 test:sort.cpp:55 $ 10
+18-12-11 12:50:57 test:sort.cpp:58 $ 
+
+18-12-11 12:58:12 test:sort.cpp:54 $ 1
+18-12-11 12:58:12 test:sort.cpp:54 $ 2
+18-12-11 12:58:12 test:sort.cpp:54 $ 3
+18-12-11 12:58:12 test:sort.cpp:54 $ 4
+18-12-11 12:58:12 test:sort.cpp:54 $ 5
+18-12-11 12:58:12 test:sort.cpp:54 $ 6
+18-12-11 12:58:12 test:sort.cpp:54 $ 7
+18-12-11 12:58:12 test:sort.cpp:54 $ 8
+18-12-11 12:58:12 test:sort.cpp:54 $ 9
+18-12-11 12:58:12 test:sort.cpp:54 $ 10
+18-12-11 12:58:12 test:sort.cpp:56 $ 
+
+18-12-11 14:03:52 test:sort.cpp:39 $ 6
+18-12-11 14:03:52 test:sort.cpp:39 $ 1
+18-12-11 14:03:52 test:sort.cpp:39 $ 2
+18-12-11 14:03:52 test:sort.cpp:39 $ 3
+18-12-11 14:03:52 test:sort.cpp:39 $ 4
+18-12-11 14:03:52 test:sort.cpp:39 $ 5
+18-12-11 14:03:52 test:sort.cpp:39 $ 7
+18-12-11 14:03:52 test:sort.cpp:39 $ 8
+18-12-11 14:03:52 test:sort.cpp:39 $ 9
+18-12-11 14:03:52 test:sort.cpp:39 $ 10
+18-12-11 14:03:52 test:sort.cpp:41 $ 
+
+18-12-11 14:05:48 test:sort.cpp:39 $ 6
+18-12-11 14:05:48 test:sort.cpp:39 $ 1
+18-12-11 14:05:48 test:sort.cpp:39 $ 2
+18-12-11 14:05:48 test:sort.cpp:39 $ 3
+18-12-11 14:05:48 test:sort.cpp:39 $ 4
+18-12-11 14:05:48 test:sort.cpp:39 $ 5
+18-12-11 14:05:48 test:sort.cpp:39 $ 7
+18-12-11 14:05:48 test:sort.cpp:39 $ 8
+18-12-11 14:05:48 test:sort.cpp:39 $ 9
+18-12-11 14:05:48 test:sort.cpp:39 $ 10
+18-12-11 14:05:48 test:sort.cpp:41 $ 
+
+18-12-11 14:07:19 test:sort.cpp:39 $ 6
+18-12-11 14:07:19 test:sort.cpp:39 $ 1
+18-12-11 14:07:19 test:sort.cpp:39 $ 2
+18-12-11 14:07:19 test:sort.cpp:39 $ 3
+18-12-11 14:07:19 test:sort.cpp:39 $ 4
+18-12-11 14:07:19 test:sort.cpp:39 $ 5
+18-12-11 14:07:19 test:sort.cpp:39 $ 7
+18-12-11 14:07:19 test:sort.cpp:39 $ 8
+18-12-11 14:07:19 test:sort.cpp:39 $ 9
+18-12-11 14:07:19 test:sort.cpp:39 $ 10
+18-12-11 14:07:19 test:sort.cpp:41 $ 
+
+18-12-11 14:08:28 test:sort.cpp:39 $ 1
+18-12-11 14:08:28 test:sort.cpp:39 $ 2
+18-12-11 14:08:28 test:sort.cpp:39 $ 3
+18-12-11 14:08:28 test:sort.cpp:39 $ 4
+18-12-11 14:08:28 test:sort.cpp:39 $ 5
+18-12-11 14:08:28 test:sort.cpp:39 $ 6
+18-12-11 14:08:28 test:sort.cpp:39 $ 7
+18-12-11 14:08:28 test:sort.cpp:39 $ 8
+18-12-11 14:08:28 test:sort.cpp:39 $ 9
+18-12-11 14:08:28 test:sort.cpp:39 $ 10
+18-12-11 14:08:28 test:sort.cpp:41 $ 
+
+18-12-11 14:12:34 test:sort.cpp:39 $ 6
+18-12-11 14:12:34 test:sort.cpp:39 $ 1
+18-12-11 14:12:34 test:sort.cpp:39 $ 2
+18-12-11 14:12:34 test:sort.cpp:39 $ 3
+18-12-11 14:12:34 test:sort.cpp:39 $ 4
+18-12-11 14:12:34 test:sort.cpp:39 $ 5
+18-12-11 14:12:34 test:sort.cpp:39 $ 7
+18-12-11 14:12:34 test:sort.cpp:39 $ 8
+18-12-11 14:12:34 test:sort.cpp:39 $ 9
+18-12-11 14:12:34 test:sort.cpp:39 $ 10
+18-12-11 14:12:34 test:sort.cpp:41 $ 
+
+18-12-11 14:20:01 test:sort.cpp:39 $ 1
+18-12-11 14:20:01 test:sort.cpp:39 $ 2
+18-12-11 14:20:01 test:sort.cpp:39 $ 3
+18-12-11 14:20:01 test:sort.cpp:39 $ 4
+18-12-11 14:20:01 test:sort.cpp:39 $ 5
+18-12-11 14:20:01 test:sort.cpp:39 $ 6
+18-12-11 14:20:01 test:sort.cpp:39 $ 7
+18-12-11 14:20:01 test:sort.cpp:39 $ 8
+18-12-11 14:20:01 test:sort.cpp:39 $ 9
+18-12-11 14:20:01 test:sort.cpp:39 $ 10
+18-12-11 14:20:01 test:sort.cpp:41 $ 
+
+18-12-11 14:21:16 test:sort.cpp:39 $ 6
+18-12-11 14:21:16 test:sort.cpp:39 $ 1
+18-12-11 14:21:16 test:sort.cpp:39 $ 2
+18-12-11 14:21:16 test:sort.cpp:39 $ 3
+18-12-11 14:21:16 test:sort.cpp:39 $ 4
+18-12-11 14:21:16 test:sort.cpp:39 $ 5
+18-12-11 14:21:16 test:sort.cpp:39 $ 7
+18-12-11 14:21:16 test:sort.cpp:39 $ 8
+18-12-11 14:21:16 test:sort.cpp:39 $ 9
+18-12-11 14:21:16 test:sort.cpp:39 $ 10
+18-12-11 14:21:16 test:sort.cpp:41 $ 
+
+18-12-11 14:21:52 test:sort.cpp:39 $ 1
+18-12-11 14:21:52 test:sort.cpp:39 $ 2
+18-12-11 14:21:52 test:sort.cpp:39 $ 3
+18-12-11 14:21:52 test:sort.cpp:39 $ 4
+18-12-11 14:21:52 test:sort.cpp:39 $ 5
+18-12-11 14:21:52 test:sort.cpp:39 $ 6
+18-12-11 14:21:52 test:sort.cpp:39 $ 7
+18-12-11 14:21:52 test:sort.cpp:39 $ 8
+18-12-11 14:21:52 test:sort.cpp:39 $ 9
+18-12-11 14:21:52 test:sort.cpp:39 $ 10
+18-12-11 14:21:52 test:sort.cpp:41 $ 
+
+18-12-11 14:49:17 test:sort.cpp:40 $ 1
+18-12-11 14:49:17 test:sort.cpp:40 $ 2
+18-12-11 14:49:17 test:sort.cpp:40 $ 3
+18-12-11 14:49:17 test:sort.cpp:40 $ 4
+18-12-11 14:49:17 test:sort.cpp:40 $ 5
+18-12-11 14:49:17 test:sort.cpp:40 $ 6
+18-12-11 14:49:17 test:sort.cpp:40 $ 7
+18-12-11 14:49:17 test:sort.cpp:40 $ 8
+18-12-11 14:49:17 test:sort.cpp:40 $ 9
+18-12-11 14:49:17 test:sort.cpp:40 $ 10
+18-12-11 14:49:17 test:sort.cpp:42 $ 
+
+18-12-11 15:45:31 test:sort.cpp:39 $ 1
+18-12-11 15:45:31 test:sort.cpp:39 $ 2
+18-12-11 15:45:31 test:sort.cpp:39 $ 3
+18-12-11 15:45:31 test:sort.cpp:39 $ 4
+18-12-11 15:45:31 test:sort.cpp:39 $ 5
+18-12-11 15:45:31 test:sort.cpp:39 $ 6
+18-12-11 15:45:31 test:sort.cpp:39 $ 7
+18-12-11 15:45:31 test:sort.cpp:39 $ 8
+18-12-11 15:45:31 test:sort.cpp:39 $ 9
+18-12-11 15:45:31 test:sort.cpp:39 $ 10
+18-12-11 15:45:31 test:sort.cpp:41 $ 
+
+18-12-11 16:17:21 test:sort.cpp:39 $ 1
+18-12-11 16:17:21 test:sort.cpp:39 $ 2
+18-12-11 16:17:21 test:sort.cpp:39 $ 3
+18-12-11 16:17:21 test:sort.cpp:39 $ 4
+18-12-11 16:17:21 test:sort.cpp:39 $ 5
+18-12-11 16:17:21 test:sort.cpp:39 $ 6
+18-12-11 16:17:21 test:sort.cpp:39 $ 7
+18-12-11 16:17:21 test:sort.cpp:39 $ 8
+18-12-11 16:17:21 test:sort.cpp:39 $ 9
+18-12-11 16:17:21 test:sort.cpp:39 $ 10
+18-12-11 16:17:21 test:sort.cpp:41 $ 
+
+18-12-11 17:00:14 test:sort.cpp:39 $ 1
+18-12-11 17:00:14 test:sort.cpp:39 $ 2
+18-12-11 17:00:14 test:sort.cpp:39 $ 3
+18-12-11 17:00:14 test:sort.cpp:39 $ 4
+18-12-11 17:00:14 test:sort.cpp:39 $ 5
+18-12-11 17:00:14 test:sort.cpp:39 $ 6
+18-12-11 17:00:14 test:sort.cpp:39 $ 7
+18-12-11 17:00:14 test:sort.cpp:39 $ 8
+18-12-11 17:00:14 test:sort.cpp:39 $ 9
+18-12-11 17:00:14 test:sort.cpp:39 $ 10
+18-12-11 17:00:14 test:sort.cpp:41 $ 
+
+18-12-11 17:21:33 test:sort.cpp:40 $ 1
+18-12-11 17:21:33 test:sort.cpp:40 $ 2
+18-12-11 17:21:33 test:sort.cpp:40 $ 3
+18-12-11 17:21:33 test:sort.cpp:40 $ 4
+18-12-11 17:21:33 test:sort.cpp:40 $ 5
+18-12-11 17:21:33 test:sort.cpp:40 $ 6
+18-12-11 17:21:33 test:sort.cpp:40 $ 7
+18-12-11 17:21:33 test:sort.cpp:40 $ 8
+18-12-11 17:21:33 test:sort.cpp:40 $ 9
+18-12-11 17:21:33 test:sort.cpp:40 $ 10
+18-12-11 17:21:33 test:sort.cpp:42 $ 
+
+18-12-11 17:22:34 test:sort.cpp:40 $ 1
+18-12-11 17:22:34 test:sort.cpp:40 $ 2
+18-12-11 17:22:34 test:sort.cpp:40 $ 3
+18-12-11 17:22:34 test:sort.cpp:40 $ 4
+18-12-11 17:22:34 test:sort.cpp:40 $ 5
+18-12-11 17:22:34 test:sort.cpp:40 $ 6
+18-12-11 17:22:34 test:sort.cpp:40 $ 7
+18-12-11 17:22:34 test:sort.cpp:40 $ 8
+18-12-11 17:22:34 test:sort.cpp:40 $ 9
+18-12-11 17:22:34 test:sort.cpp:40 $ 10
+18-12-11 17:22:34 test:sort.cpp:42 $ 
+

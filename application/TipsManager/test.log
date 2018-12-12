@@ -1,0 +1,27 @@
+18-12-10 14:40:54 test:main.c:18 $ cur pwd= /home/C/trunk/applications/TipsManager
+18-12-10 14:40:54 test:main.c:25 $ test
+
+18-12-10 14:40:54 test:main.c:25 $ main.c
+
+18-12-10 14:40:54 test:main.c:25 $ .
+
+18-12-10 14:40:54 test:main.c:25 $ Makefile
+
+18-12-10 14:40:54 test:main.c:25 $ test.log
+
+18-12-10 14:40:54 test:main.c:25 $ ..
+
+18-12-10 15:05:17 test:main.c:18 $ cur pwd= /home/C/trunk/applications/TipsManager
+18-12-10 15:05:17 test:main.c:25 $ test
+
+18-12-10 15:05:17 test:main.c:25 $ main.c
+
+18-12-10 15:05:17 test:main.c:25 $ .
+
+18-12-10 15:05:17 test:main.c:25 $ Makefile
+
+18-12-10 15:05:17 test:main.c:25 $ test.log
+
+18-12-10 15:05:17 test:main.c:25 $ ..
+
+18-12-10 15:05:34 test:main.c:18 $ cur pwd= /home/C/trunk/applications/TipsManager

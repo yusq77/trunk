@@ -1,0 +1,438 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AppName	Utilities/unionlog/unionlog.c	/^static char AppName[256] = {0}; \/\/ ��ǰ������$/;"	v	file:
+BIN	applications/SortManager/Makefile	/^BIN= test$/;"	m
+BIN	applications/TipsManager/Makefile	/^BIN= test$/;"	m
+BINARY	Utilities/unionlog/Makefile	/^BINARY=logTest$/;"	m
+BLACK	include/color.h	9;"	d
+BLINK	include/color.h	28;"	d
+BLUE	include/color.h	17;"	d
+BOLD	include/color.h	26;"	d
+BROWN	include/color.h	15;"	d
+CC	Utilities/unionlog/Makefile	/^CC=gcc$/;"	m
+CC	applications/SortManager/Makefile	/^CC=g++$/;"	m
+CC	applications/TipsManager/Makefile	/^CC=gcc$/;"	m
+CFLAGS	Utilities/unionlog/Makefile	/^CFLAGS=-Wall -g -Wno-pointer-sign$/;"	m
+CFLAGS	applications/SortManager/Makefile	/^CFLAGS=-g -Wall -I..\/..\/include$/;"	m
+CFLAGS	applications/TipsManager/Makefile	/^CFLAGS=-I..\/..\/include -g -Wall -Wno-pointer-sign$/;"	m
+CLEAR	include/color.h	31;"	d
+CLRLINE	include/color.h	32;"	d
+CMPLE_LIB_PATH	Utilities/unionerror/Makefile	/^CMPLE_LIB_PATH = ..\/..\/lib64\/$/;"	m
+CMPLE_LIB_PATH	Utilities/unionlog/Makefile	/^	CMPLE_LIB_PATH = ..\/..\/lib64\/$/;"	m
+CMPLE_LIB_PATH	Utilities/unionlog/Makefile	/^	CMPLE_LIB_PATH = ..\/..\/lib\/$/;"	m
+CMPLE_LIB_PATH	Utilities/unionlog/Makefile	/^CMPLE_LIB_PATH = ..\/..\/lib$/;"	m
+CYAN	include/color.h	21;"	d
+CurLevel	Utilities/unionlog/unionlog.c	/^static LogLevel CurLevel = UNION_LOG_UNKNOWN; \/\/ ��ǰ��־����$/;"	v	file:
+DEBUG_GREEN	include/color.h	38;"	d
+DEBUG_GREEN	include/color.h	41;"	d
+DEBUG_RED	include/color.h	37;"	d
+DEBUG_RED	include/color.h	40;"	d
+DEFAULT_LOG_NAME	Utilities/unionlog/unionlog.c	8;"	d	file:
+DEFAULT_LOG_PATH	Utilities/unionlog/unionlog.c	7;"	d	file:
+DIRS	Makefile	/^DIRS=Utilities\\$/;"	m
+DIRS	Utilities/Makefile	/^DIRS=unionlog\\$/;"	m
+DIRS	applications/Makefile	/^DIRS=TipsManager\\$/;"	m
+ErrDetailInfo	Utilities/unionerror/unionerrinfo.h	/^    char *ErrDetailInfo;$/;"	m	struct:UnionErrInfo
+ErrMsg	Utilities/unionerror/unionerrinfo.h	/^    char *ErrMsg;$/;"	m	struct:UnionErrInfo
+ErrNo	Utilities/unionerror/unionerrinfo.h	/^    int ErrNo;$/;"	m	struct:UnionErrInfo
+GRAY	include/color.h	23;"	d
+GREEN	include/color.h	13;"	d
+GetAppName	Utilities/unionlog/unionlog.c	/^static void GetAppName(void)$/;"	f	file:
+HIDE	include/color.h	30;"	d
+INCLUDE	Utilities/unionerror/Makefile	/^INCLUDE = -I..\/..\/include$/;"	m
+INCLUDE	Utilities/unionlog/Makefile	/^INCLUDE=-I..\/..\/include$/;"	m
+INSTALL_LIB_PATH	Utilities/unionerror/Makefile	/^INSTALL_LIB_PATH = \/usr\/lib64\/$/;"	m
+INSTALL_LIB_PATH	Utilities/unionlog/Makefile	/^	INSTALL_LIB_PATH = \/usr\/lib64\/$/;"	m
+INSTALL_LIB_PATH	Utilities/unionlog/Makefile	/^	INSTALL_LIB_PATH = \/usr\/lib\/$/;"	m
+INSTALL_LIB_PATH	Utilities/unionlog/Makefile	/^INSTALL_LIB_PATH = \/usr\/lib\/$/;"	m
+LEN	applications/SortManager/main.cpp	9;"	d	file:
+LIBBINARY	Utilities/unionerror/Makefile	/^LIBBINARY = libunionerror.so$/;"	m
+LIBLD	Utilities/unionlog/Makefile	/^LIBLD= -L..\/..\/lib64 -lunionlog$/;"	m
+LIBPATH	Utilities/unionlog/Makefile	/^LIBPATH=..\/..\/lib64$/;"	m
+LIBS	Utilities/unionlog/Makefile	/^LIBS=libunionlog.so$/;"	m
+LIBS	applications/SortManager/Makefile	/^	LIBS=-L..\/..\/lib -lunionlog$/;"	m
+LIBS	applications/SortManager/Makefile	/^	LIBS=-L..\/..\/lib64 -lunionlog$/;"	m
+LIBS	applications/TipsManager/Makefile	/^	LIBS=-L..\/..\/lib -lunionlog$/;"	m
+LIBS	applications/TipsManager/Makefile	/^	LIBS=-L..\/..\/lib64 -lunionlog$/;"	m
+LOG_CONFIG_FILE	Utilities/unionlog/unionlog.c	9;"	d	file:
+L_BLACK	include/color.h	10;"	d
+L_BLUE	include/color.h	18;"	d
+L_CYAN	include/color.h	22;"	d
+L_GREEN	include/color.h	14;"	d
+L_PURPLE	include/color.h	20;"	d
+L_RED	include/color.h	12;"	d
+LogFile	Utilities/unionlog/unionlog.c	/^static FILE *LogFile = NULL; \/\/ ��־�ļ�ָ��$/;"	v	file:
+LogLevel	include/unionlog.h	/^}LogLevel;$/;"	t	typeref:enum:__anon1
+NONE	include/color.h	8;"	d
+PURPLE	include/color.h	19;"	d
+RADIUS_MYSQL_ACCOUNT_UNIQUE_ERR	include/unionerror.h	349;"	d
+RED	include/color.h	11;"	d
+REVERSE	include/color.h	29;"	d
+SKVErrInfo	Utilities/unionerror/unionerrinfo.h	/^struct UnionErrInfo SKVErrInfo[] = {$/;"	v	typeref:struct:UnionErrInfo
+ULERR_ANALY_ATVTIMES_FORMAT	include/unionerror.h	/^	ULERR_ANALY_ATVTIMES_FORMAT,              \/\/license明文数据激活次数格式错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_AUTHINFO_MAXLEN	include/unionerror.h	/^	ULERR_ANALY_AUTHINFO_MAXLEN,              \/\/license明文数据授权信息长度错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_FIELD_NUM	include/unionerror.h	/^	ULERR_ANALY_FIELD_NUM,                    \/\/license明文数据域个数错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HASH_CHEK	include/unionerror.h	/^	ULERR_ANALY_HASH_CHEK,					  \/\/license明文数据HASH校验不匹配$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HASH_MAXLEN	include/unionerror.h	/^	ULERR_ANALY_HASH_MAXLEN,                  \/\/license明文数据HASH数据长度错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HWINFO_FIELD_NUM	include/unionerror.h	/^	ULERR_ANALY_HWINFO_FIELD_NUM,             \/\/硬件信息(含激活次数)中硬件信息域个数错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HWINFO_MAXLEN	include/unionerror.h	/^	ULERR_ANALY_HWINFO_MAXLEN,                \/\/license明文数据HWINFO长度错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HWINFO_NOMATCH	include/unionerror.h	/^	ULERR_ANALY_HWINFO_NOMATCH,               \/\/license明文数据中的HWINFO与设备不匹配$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HWINFO_PNAME_MAXLEN	include/unionerror.h	/^	ULERR_ANALY_HWINFO_PNAME_MAXLEN,          \/\/硬件信息(含激活次数)中硬件信息域个数错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_HWINFO_PUUID_MAXLEN	include/unionerror.h	/^	ULERR_ANALY_HWINFO_PUUID_MAXLEN,          \/\/硬件信息(含激活次数)中硬件信息域个数错误$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_NO_ACTIVE_TIMES	include/unionerror.h	/^	ULERR_ANALY_NO_ACTIVE_TIMES,              \/\/硬件信息(含激活次数)中缺少激活次数信息$/;"	e	enum:UnionLicenseErr
+ULERR_ANALY_NO_CLEAR_DATA	include/unionerror.h	/^	ULERR_ANALY_NO_CLEAR_DATA,                \/\/输入明文license数据为空$/;"	e	enum:UnionLicenseErr
+ULERR_LICENSE_FILE_MAXSIZE	include/unionerror.h	/^	ULERR_LICENSE_FILE_MAXSIZE,               \/\/license文件大小超出上限$/;"	e	enum:UnionLicenseErr
+ULERR_LICENSE_FILE_WRITE	include/unionerror.h	/^	ULERR_LICENSE_FILE_WRITE,                  \/\/不能以写方式打开License文件$/;"	e	enum:UnionLicenseErr
+ULERR_MAC_GET_IF	include/unionerror.h	/^	ULERR_MAC_GET_IF,                         \/\/无法读取网卡MAC地址列表$/;"	e	enum:UnionLicenseErr
+ULERR_MAC_IOCTL	include/unionerror.h	/^	ULERR_MAC_IOCTL,                          \/\/无法进行IOCTL操作$/;"	e	enum:UnionLicenseErr
+ULERR_MAC_MAX_NUM	include/unionerror.h	/^	ULERR_MAC_MAX_NUM,                        \/\/网卡数量超出最大限制$/;"	e	enum:UnionLicenseErr
+ULERR_MAC_SOCK	include/unionerror.h	/^	ULERR_MAC_SOCK,                           \/\/无法创建socket$/;"	e	enum:UnionLicenseErr
+ULERR_NO_LICENSE_FILE	include/unionerror.h	/^	ULERR_NO_LICENSE_FILE,                    \/\/license文件不存在或不能以读方式打开license文件$/;"	e	enum:UnionLicenseErr
+ULERR_NO_PNAME_FILE	include/unionerror.h	/^	ULERR_NO_PNAME_FILE = 0xF01,              \/\/无法读取系统名称$/;"	e	enum:UnionLicenseErr
+ULERR_NO_UUID_FILE	include/unionerror.h	/^	ULERR_NO_UUID_FILE,                       \/\/无法读取系统ID$/;"	e	enum:UnionLicenseErr
+UNDERLINE	include/color.h	27;"	d
+UNION_ACCOUNTLEVEL_NO_EXIST	include/unionerror.h	208;"	d
+UNION_ACCOUNT_EXCLUSIONDRAW_LIMIT	include/unionerror.h	340;"	d
+UNION_ACCOUNT_INGROUP_NOTNULL	include/unionerror.h	264;"	d
+UNION_ACCOUNT_LIST_DEL	include/unionerror.h	265;"	d
+UNION_ACC_NO_EXIST	include/unionerror.h	350;"	d
+UNION_ACC_OPER_NOT_CONFIG	include/unionerror.h	/^	UNION_ACC_OPER_NOT_CONFIG,            \/\/帐户所在资源未配置服务端口\/通信密码$/;"	e	enum:__anon4
+UNION_ACC_OPER_NOT_SUPPORT	include/unionerror.h	/^	UNION_ACC_OPER_NOT_SUPPORT = 0x801,   \/\/帐户不支持的业务类型$/;"	e	enum:__anon4
+UNION_ACC_PARTIAL_UNAUTH	include/unionerror.h	355;"	d
+UNION_ACC_UNAUTH	include/unionerror.h	351;"	d
+UNION_ACTIVE_ERR	include/unionerror.h	334;"	d
+UNION_ACTIVE_SUCCESS	include/unionerror.h	333;"	d
+UNION_ADUSER_NOTEXIT	include/unionerror.h	230;"	d
+UNION_ADUSER_PWDCHANGEFAILED	include/unionerror.h	234;"	d
+UNION_ADUSER_PWDCHECKFAILED	include/unionerror.h	233;"	d
+UNION_ADUSER_PWDTIMEOUT	include/unionerror.h	231;"	d
+UNION_ADUSER_PWDWILLTIMEOUT	include/unionerror.h	232;"	d
+UNION_AD_CONNECT_FAILED	include/unionerror.h	343;"	d
+UNION_ALL_FAILED	include/unionerror.h	310;"	d
+UNION_APPLICATION_NO_EXIST	include/unionerror.h	172;"	d
+UNION_APPROVAL_CODE_ERR	include/unionerror.h	353;"	d
+UNION_APPROVAL_NO_EXIST	include/unionerror.h	176;"	d
+UNION_ARGU_DATA_TYPE_ERR	include/unionerror.h	149;"	d
+UNION_ARGU_ERR	include/unionerror.h	129;"	d
+UNION_AUTH_APPLY_OVER_LIMIT	include/unionerror.h	347;"	d
+UNION_AUTH_DB_AND_APPLY_OVER_LIMIT	include/unionerror.h	348;"	d
+UNION_AUTH_DB_OVER_LIMIT	include/unionerror.h	346;"	d
+UNION_AUTH_DEVIDE_OVER_LIMIT	include/unionerror.h	344;"	d
+UNION_AUTH_NET_DEVICE_OVER_LIMIT	include/unionerror.h	345;"	d
+UNION_AUTH_NOT_MATCH	include/unionerror.h	269;"	d
+UNION_BIND_OTHER_TOKEN	include/unionerror.h	295;"	d
+UNION_BUSINESS_EXIST	include/unionerror.h	212;"	d
+UNION_BUSINESS_FOREIGN_APP	include/unionerror.h	187;"	d
+UNION_BUSINESS_NO_EXIST	include/unionerror.h	211;"	d
+UNION_BUSINESS_USE_HSM	include/unionerror.h	186;"	d
+UNION_CANNOT_ADD_USER	include/unionerror.h	184;"	d
+UNION_CERT_GEN_ERR	include/unionerror.h	352;"	d
+UNION_CHECK_EXECTIMES_ERR	include/unionerror.h	309;"	d
+UNION_CHECK_EXPIRE_ERR	include/unionerror.h	319;"	d
+UNION_CHECK_VALID_ERR	include/unionerror.h	312;"	d
+UNION_CLIENTIP_NO_AUTHORIZED	include/unionerror.h	/^	UNION_CLIENTIP_NO_AUTHORIZED,           \/\/客户端IP未被CSSP授权$/;"	e	enum:__anon5
+UNION_CODE_OVER_DUE	include/unionerror.h	205;"	d
+UNION_COMMON_CONN_ERR	include/unionerror.h	308;"	d
+UNION_CREATECERTREQ_ERR	include/unionerror.h	330;"	d
+UNION_CSSP_CHECK_FAILD	include/unionerror.h	302;"	d
+UNION_CSSP_CONNECT_FAILED	include/unionerror.h	/^	UNION_CSSP_CONNECT_FAILED,              \/\/CSSP连接失败 $/;"	e	enum:__anon5
+UNION_CSSP_KEYNAME_NOT_EXIST	include/unionerror.h	/^	UNION_CSSP_KEYNAME_NOT_EXIST,           \/\/密钥名不存在$/;"	e	enum:__anon5
+UNION_DAORU_SERCERT_SUCCESS	include/unionerror.h	331;"	d
+UNION_DATA_FMT_ERR	include/unionerror.h	130;"	d
+UNION_DBUPDATE_FAILED	include/unionerror.h	258;"	d
+UNION_DBVERSION_CHECK_FAILED	include/unionerror.h	256;"	d
+UNION_DB_CHARACTE_ERR	include/unionerror.h	131;"	d
+UNION_DB_COL_NOTNULL	include/unionerror.h	254;"	d
+UNION_DB_COL_NOT_EXIST	include/unionerror.h	134;"	d
+UNION_DB_CONN_ERR	include/unionerror.h	238;"	d
+UNION_DB_DELETE_ERR	include/unionerror.h	249;"	d
+UNION_DB_FOREIGN_KEY_ERR	include/unionerror.h	135;"	d
+UNION_DB_INSERT_ERR	include/unionerror.h	248;"	d
+UNION_DB_IP_ERR	include/unionerror.h	239;"	d
+UNION_DB_PORT_ERR	include/unionerror.h	240;"	d
+UNION_DB_QUERY_ERR	include/unionerror.h	243;"	d
+UNION_DB_QUERY_NULL	include/unionerror.h	244;"	d
+UNION_DB_SOCK_ERR	include/unionerror.h	242;"	d
+UNION_DB_SYNTAX_ERR	include/unionerror.h	132;"	d
+UNION_DB_TABLE_LOCKED	include/unionerror.h	137;"	d
+UNION_DB_TABLE_NOT_EXIST	include/unionerror.h	133;"	d
+UNION_DB_UNIQUE_KEY_ERR	include/unionerror.h	136;"	d
+UNION_DB_UNKNOWN	include/unionerror.h	253;"	d
+UNION_DB_UPDATE_ERR	include/unionerror.h	250;"	d
+UNION_DB_USER_PWD_ERR	include/unionerror.h	241;"	d
+UNION_DECRYPT_FAILED	include/unionerror.h	/^	UNION_DECRYPT_FAILED,                   \/\/解密失败$/;"	e	enum:__anon5
+UNION_DEL_TOKEN_ERR	include/unionerror.h	296;"	d
+UNION_DEVICE_EXIST	include/unionerror.h	221;"	d
+UNION_DEVICE_NO_EXIST	include/unionerror.h	220;"	d
+UNION_DISK_NO_ENOUGH	include/unionerror.h	245;"	d
+UNION_DOMAIN_ARGU_ERR	include/unionerror.h	291;"	d
+UNION_DYCODECHECK_FAILD	include/unionerror.h	316;"	d
+UNION_EBOX_CHECK_ERR	include/unionerror.h	226;"	d
+UNION_EBOX_CREATE_ERR	include/unionerror.h	227;"	d
+UNION_EBOX_EXISTING	include/unionerror.h	228;"	d
+UNION_ERRINFO_H	Utilities/unionerror/unionerrinfo.h	2;"	d
+UNION_ERROR_H	include/unionerror.h	2;"	d
+UNION_EVENT_EXIST	include/unionerror.h	216;"	d
+UNION_EVENT_MODULE_NOT_MATCH	include/unionerror.h	153;"	d
+UNION_EVENT_NO_EXIST	include/unionerror.h	215;"	d
+UNION_EXISTPWD_NOT_APPROPRIATE	include/unionerror.h	317;"	d
+UNION_FILE_REPLACE_FAILED	include/unionerror.h	260;"	d
+UNION_FINISHCERTREQ_SUCCESS	include/unionerror.h	336;"	d
+UNION_FIRMKEY_NOT_EXIST	include/unionerror.h	300;"	d
+UNION_FORCE_CHANGE_PASSWORD	include/unionerror.h	284;"	d
+UNION_FOREIGN_APPLICATION	include/unionerror.h	180;"	d
+UNION_FSVERSION_CHECK_FAILED	include/unionerror.h	257;"	d
+UNION_GENERATE_EXCEL_FAILED	include/unionerror.h	313;"	d
+UNION_HSM_CONNECT_FAIL	include/unionerror.h	188;"	d
+UNION_HSM_FOREIGN	include/unionerror.h	181;"	d
+UNION_HSM_HSMGRP_MKNOTSAME	include/unionerror.h	179;"	d
+UNION_HSM_MSGLEN_ERR	include/unionerror.h	189;"	d
+UNION_IP_LIMITED	include/unionerror.h	303;"	d
+UNION_KEYTYPE_DELETE_ERR	include/unionerror.h	200;"	d
+UNION_KEYTYPE_INSERT_ERR	include/unionerror.h	199;"	d
+UNION_KEYVALUE_CKECKVALUE_UNMATCH	include/unionerror.h	178;"	d
+UNION_KEYVALUE_LENGTH_ERR	include/unionerror.h	198;"	d
+UNION_KEY_GEN_ERR	include/unionerror.h	185;"	d
+UNION_LDAP_CONNECT_FAILED	include/unionerror.h	342;"	d
+UNION_LICENSE_APP_OVER_LIMIT	include/unionerror.h	281;"	d
+UNION_LICENSE_KEY_OVER_LIMIT	include/unionerror.h	282;"	d
+UNION_LICENSE_TER_OVER_LIMIT	include/unionerror.h	283;"	d
+UNION_LICENSE_UNAUTHORIZED	include/unionerror.h	280;"	d
+UNION_LOG_DEBUG	include/unionlog.h	/^	UNION_LOG_DEBUG,$/;"	e	enum:__anon1
+UNION_LOG_ERROR	include/unionlog.h	/^	UNION_LOG_ERROR,$/;"	e	enum:__anon1
+UNION_LOG_FATAL	include/unionlog.h	/^	UNION_LOG_FATAL,$/;"	e	enum:__anon1
+UNION_LOG_H	include/unionlog.h	2;"	d
+UNION_LOG_INFO	include/unionlog.h	/^	UNION_LOG_INFO,$/;"	e	enum:__anon1
+UNION_LOG_MAX	include/unionlog.h	/^	UNION_LOG_MAX$/;"	e	enum:__anon1
+UNION_LOG_UNKNOWN	include/unionlog.h	/^	UNION_LOG_UNKNOWN,$/;"	e	enum:__anon1
+UNION_MAST_HSMGRP_DELETE_DENY	include/unionerror.h	162;"	d
+UNION_MEM_DEPLETE	include/unionerror.h	236;"	d
+UNION_MODULE_EXIST	include/unionerror.h	203;"	d
+UNION_MODULE_NO_EXIST	include/unionerror.h	202;"	d
+UNION_NO_CONFIG_CSSP_KEYNAME	include/unionerror.h	/^	UNION_NO_CONFIG_CSSP_KEYNAME,           \/\/未配置CSSP加解密的密钥名      $/;"	e	enum:__anon5
+UNION_NO_HAVE_HSM	include/unionerror.h	190;"	d
+UNION_NO_NEED_PWD	include/unionerror.h	272;"	d
+UNION_NTP_CONFIG_ERROR	include/unionerror.h	251;"	d
+UNION_OBJECT_NO_EXIST	include/unionerror.h	173;"	d
+UNION_OBJECT_NUM_OVER_LIMIT	include/unionerror.h	297;"	d
+UNION_OPENCERTFILE_ERR	include/unionerror.h	326;"	d
+UNION_OPERATE_EXIST	include/unionerror.h	214;"	d
+UNION_OPERATE_NO_EXIST	include/unionerror.h	213;"	d
+UNION_OPERATE_SUCCESS	include/unionerror.h	127;"	d
+UNION_OPERATIONTYPE_EXIST	include/unionerror.h	218;"	d
+UNION_OPERATIONTYPE_NO_EXIST	include/unionerror.h	217;"	d
+UNION_OPERPWD_EXIST	include/unionerror.h	210;"	d
+UNION_OPERPWD_NO_EXIST	include/unionerror.h	209;"	d
+UNION_OPER_ALL_FAILURE	include/unionerror.h	247;"	d
+UNION_OPER_PART_SUCCESS	include/unionerror.h	246;"	d
+UNION_OPER_PWD_ERR	include/unionerror.h	277;"	d
+UNION_OPER_TYPE_ERR	include/unionerror.h	150;"	d
+UNION_ORG_DELETE_DENY	include/unionerror.h	161;"	d
+UNION_ORG_DELETE_ERR	include/unionerror.h	194;"	d
+UNION_ORG_EXIST	include/unionerror.h	156;"	d
+UNION_ORG_LEAST_LEVEL	include/unionerror.h	157;"	d
+UNION_ORG_MAX_NUM	include/unionerror.h	159;"	d
+UNION_ORG_NO_EXIST	include/unionerror.h	155;"	d
+UNION_ORG_PERMIT_DENY	include/unionerror.h	158;"	d
+UNION_OS_EXIST	include/unionerror.h	225;"	d
+UNION_OS_NO_EXIST	include/unionerror.h	224;"	d
+UNION_OTPS_CONNECT_FAILED	include/unionerror.h	298;"	d
+UNION_OTPS_KEK_NOT_EXIST	include/unionerror.h	301;"	d
+UNION_PARTIAL_FAILED	include/unionerror.h	311;"	d
+UNION_PASS_FAILED	include/unionerror.h	271;"	d
+UNION_PATCH_DECRYPT_FAILED	include/unionerror.h	262;"	d
+UNION_PATCH_UPGRADE_FAILED	include/unionerror.h	263;"	d
+UNION_PERMIT_CHANGE	include/unionerror.h	201;"	d
+UNION_PERMIT_DENY	include/unionerror.h	237;"	d
+UNION_POLICY_EXIST	include/unionerror.h	207;"	d
+UNION_POLICY_NO_EXIST	include/unionerror.h	206;"	d
+UNION_PORT_ADD_ERR	include/unionerror.h	337;"	d
+UNION_PORT_ADD_EXIST_ERR	include/unionerror.h	339;"	d
+UNION_PORT_DEL_ERR	include/unionerror.h	338;"	d
+UNION_PRINTFMT_USED	include/unionerror.h	183;"	d
+UNION_PROTOCOL_EXIST	include/unionerror.h	223;"	d
+UNION_PROTOCOL_NO_EXIST	include/unionerror.h	222;"	d
+UNION_RADIUS_CONNECT_FAILED	include/unionerror.h	304;"	d
+UNION_RADIUS_IP_EXIST	include/unionerror.h	305;"	d
+UNION_RADIUS_UNCHECK_PASSWD	include/unionerror.h	306;"	d
+UNION_READCERTFILE_ERR	include/unionerror.h	327;"	d
+UNION_READKEYFILE_ERR	include/unionerror.h	328;"	d
+UNION_READ_CSSP_KEYNAME_FAILED	include/unionerror.h	/^	UNION_READ_CSSP_KEYNAME_FAILED,         \/\/读取CSSP加解密的密钥名失败$/;"	e	enum:__anon5
+UNION_READ_CSSP_STATUS_FAILED	include/unionerror.h	/^	UNION_READ_CSSP_STATUS_FAILED = 0x901,  \/\/读取CSSP加解密开关失败      $/;"	e	enum:__anon5
+UNION_REPAIR_CODE_ERR	include/unionerror.h	219;"	d
+UNION_REPEAT_OPERATE_ERROR	include/unionerror.h	252;"	d
+UNION_ROLE_EXIST	include/unionerror.h	204;"	d
+UNION_ROLE_NO_EXIST	include/unionerror.h	195;"	d
+UNION_SCAN_RESOURCE_FAILED	include/unionerror.h	320;"	d
+UNION_SCAN_VM_ALL_FAILED	include/unionerror.h	322;"	d
+UNION_SCAN_VM_PARTIAL_COMPLETE	include/unionerror.h	321;"	d
+UNION_SCAN_VM_UNCONFIG_ESXI	include/unionerror.h	324;"	d
+UNION_SCAN_VM_UNCONFIG_SYNC_PORT	include/unionerror.h	325;"	d
+UNION_SCAN_VM_UNCONFIG_VCENTER	include/unionerror.h	323;"	d
+UNION_SEEDFILE_FORMAT_ERROR	include/unionerror.h	299;"	d
+UNION_SELF_SCRIPTE_FAILED	include/unionerror.h	261;"	d
+UNION_SERVER_CONN_ACCOUNT	include/unionerror.h	341;"	d
+UNION_SOCK_ACCEPT_ERR	include/unionerror.h	164;"	d
+UNION_SOCK_CONNECT_ERR	include/unionerror.h	177;"	d
+UNION_SOCK_LISTEN_ERR	include/unionerror.h	163;"	d
+UNION_SOCK_READ_ERR	include/unionerror.h	166;"	d
+UNION_SOCK_WRITE_ERR	include/unionerror.h	165;"	d
+UNION_SYSID_OR_APPID_UNDEFINED	include/unionerror.h	/^	UNION_SYSID_OR_APPID_UNDEFINED,         \/\/系统ID或应用ID未定义$/;"	e	enum:__anon5
+UNION_TASK_APPLICATION_EXIST	include/unionerror.h	193;"	d
+UNION_TASK_APPLICATION_NO_EXIST	include/unionerror.h	168;"	d
+UNION_TASK_APPLICATION_USING	include/unionerror.h	170;"	d
+UNION_TASK_LOCKED	include/unionerror.h	273;"	d
+UNION_TASK_NO_EXIST	include/unionerror.h	175;"	d
+UNION_TASK_OPER_EXIST	include/unionerror.h	197;"	d
+UNION_TASK_OPER_NO_EXIST	include/unionerror.h	196;"	d
+UNION_TASK_STATUS_ERROR	include/unionerror.h	274;"	d
+UNION_TASK_STATUS_NO_EXIST	include/unionerror.h	174;"	d
+UNION_TASK_TERMINAL_EXIST	include/unionerror.h	192;"	d
+UNION_TASK_TERMINAL_NO_EXIST	include/unionerror.h	167;"	d
+UNION_TASK_TERMINAL_USING	include/unionerror.h	169;"	d
+UNION_TERMINAL_NO_EXIST	include/unionerror.h	171;"	d
+UNION_TOKEN_HAS_BINDED	include/unionerror.h	294;"	d
+UNION_TOKEN_IS_NOT_EXIST	include/unionerror.h	293;"	d
+UNION_UN_APPROVAL_ERR	include/unionerror.h	354;"	d
+UNION_USER_CONTRACT_EXPIRED	include/unionerror.h	292;"	d
+UNION_USER_DELETE_ERR	include/unionerror.h	191;"	d
+UNION_USER_EXIST	include/unionerror.h	151;"	d
+UNION_USER_EXPIRED_TIME	include/unionerror.h	275;"	d
+UNION_USER_FORBIDDEN	include/unionerror.h	287;"	d
+UNION_USER_INVAILD	include/unionerror.h	268;"	d
+UNION_USER_LOCKED	include/unionerror.h	285;"	d
+UNION_USER_LOGIN_PASSWORD_ERROR	include/unionerror.h	288;"	d
+UNION_USER_NEWPWD_OLDPWD_SAME	include/unionerror.h	289;"	d
+UNION_USER_NOT_ACTIVE	include/unionerror.h	270;"	d
+UNION_USER_NO_APPROVED	include/unionerror.h	286;"	d
+UNION_USER_NO_EXIST	include/unionerror.h	154;"	d
+UNION_USER_NO_ORGUNIT	include/unionerror.h	152;"	d
+UNION_USER_OVERDUE	include/unionerror.h	290;"	d
+UNION_USER_PERMIT_DENY	include/unionerror.h	160;"	d
+UNION_USER_PERMIT_DENY_RW	include/unionerror.h	229;"	d
+UNION_USER_PWD_ERR	include/unionerror.h	276;"	d
+UNION_USER_UNDEFINE_ROLE	include/unionerror.h	182;"	d
+UNION_USER_UNLOCKED	include/unionerror.h	318;"	d
+UNION_VCENTER_AUTHMODE_FAILED	include/unionerror.h	/^	UNION_VCENTER_AUTHMODE_FAILED,		  \/\/未勾选指定的认帐方式$/;"	e	enum:__anon4
+UNION_VERSION_CHECK_FAILED	include/unionerror.h	255;"	d
+UNION_WORKNOTE_LOCK_FAILED	include/unionerror.h	314;"	d
+UNION_WORKNOTE_UNLOCK_FAILED	include/unionerror.h	315;"	d
+UNION_X509CHECKPRIVATEKEY_ERR	include/unionerror.h	329;"	d
+UNION_XMLUPDATE_FAILED	include/unionerror.h	259;"	d
+UNION_XML_ATTRIBUTE_INVAILD	include/unionerror.h	142;"	d
+UNION_XML_ATTRIBUTE_NOT_EXIST	include/unionerror.h	141;"	d
+UNION_XML_DATA_INVAILD	include/unionerror.h	143;"	d
+UNION_XML_FILE_CREATE_ERR	include/unionerror.h	146;"	d
+UNION_XML_FILE_NOT_EXIST	include/unionerror.h	144;"	d
+UNION_XML_NODE_CREATE_ERR	include/unionerror.h	147;"	d
+UNION_XML_NODE_INVAILD	include/unionerror.h	140;"	d
+UNION_XML_NODE_NOT_EXIST	include/unionerror.h	138;"	d
+UNION_XML_NODE_NOT_UNIQUE	include/unionerror.h	139;"	d
+UNION_XML_PARSE_ERR	include/unionerror.h	145;"	d
+UNION_XML_PATH_NOT_EXIST	include/unionerror.h	148;"	d
+UNION_ZIQIANFA_SERCERT_ERR	include/unionerror.h	335;"	d
+UNION_ZIQIANFA_SERCERT_SUCCESS	include/unionerror.h	332;"	d
+UNION_ZMK_CHECK_ERR	include/unionerror.h	278;"	d
+UNION_ZMK_FIND_ERR	include/unionerror.h	279;"	d
+UODBCERR_ALLOC_DBC_HANDLE	include/unionerror.h	/^	UODBCERR_ALLOC_DBC_HANDLE,$/;"	e	enum:__anon3
+UODBCERR_ALLOC_ENV_HANDLE	include/unionerror.h	/^	UODBCERR_ALLOC_ENV_HANDLE = 0x701,$/;"	e	enum:__anon3
+UODBCERR_ALLOC_STATE_HANDLE	include/unionerror.h	/^	UODBCERR_ALLOC_STATE_HANDLE,$/;"	e	enum:__anon3
+UODBCERR_DRIVER_CONNECT	include/unionerror.h	/^	UODBCERR_DRIVER_CONNECT,$/;"	e	enum:__anon3
+UODBCERR_GEN_RAND_PASS_FAILED	include/unionerror.h	/^	UODBCERR_GEN_RAND_PASS_FAILED,$/;"	e	enum:__anon3
+UODBCERR_INVALID_PARAM	include/unionerror.h	/^	UODBCERR_INVALID_PARAM,$/;"	e	enum:__anon3
+UODBCERR_NOT_ADMINISTRATOR	include/unionerror.h	/^	UODBCERR_NOT_ADMINISTRATOR,$/;"	e	enum:__anon3
+UODBCERR_NO_ADMINISTRATOR	include/unionerror.h	/^	UODBCERR_NO_ADMINISTRATOR,$/;"	e	enum:__anon3
+UODBCERR_ODBC_EXEC	include/unionerror.h	/^	UODBCERR_ODBC_EXEC,$/;"	e	enum:__anon3
+UODBCERR_STATUS_FORBIDDEN	include/unionerror.h	/^	UODBCERR_STATUS_FORBIDDEN,$/;"	e	enum:__anon3
+UODBCERR_TRUST_FAILED	include/unionerror.h	/^	UODBCERR_TRUST_FAILED,$/;"	e	enum:__anon3
+UODBCERR_UNKNOWN_DB_TYPE	include/unionerror.h	/^	UODBCERR_UNKNOWN_DB_TYPE,$/;"	e	enum:__anon3
+UODBCERR_UNKNOWN_OPER_TYPE	include/unionerror.h	/^	UODBCERR_UNKNOWN_OPER_TYPE,$/;"	e	enum:__anon3
+USYCERR_ACC_ADD_EXSIT	include/unionerror.h	/^	USYCERR_ACC_ADD_EXSIT,	        \/\/帐户添加错误，帐户已存在$/;"	e	enum:UnionSynchErr
+USYCERR_ACC_APP_CUSTOM	include/unionerror.h	/^	USYCERR_ACC_APP_CUSTOM = 0xE50,	\/\/业务应用自定义的错误类型$/;"	e	enum:UnionSynchErr
+USYCERR_ACC_CHK_INVALID	include/unionerror.h	/^	USYCERR_ACC_CHK_INVALID,	    \/\/帐户口令校验错误$/;"	e	enum:UnionSynchErr
+USYCERR_ACC_NO_EXSIT	include/unionerror.h	/^	USYCERR_ACC_NO_EXSIT,	        \/\/帐户改密\/删除错误，帐户不存在$/;"	e	enum:UnionSynchErr
+USYCERR_ACC_PSWD_FORMAT	include/unionerror.h	/^	USYCERR_ACC_PSWD_FORMAT,	    \/\/帐户改密,新密码不符合密码规则$/;"	e	enum:UnionSynchErr
+USYCERR_ACC_PSWD_QUERY	include/unionerror.h	/^	USYCERR_ACC_PSWD_QUERY,	        \/\/业务应用没有查询帐户口令的权限$/;"	e	enum:UnionSynchErr
+USYCERR_CONN_ERR	include/unionerror.h	/^	USYCERR_CONN_ERR = 0xE01,$/;"	e	enum:UnionSynchErr
+USYCERR_INIT_CHKCODE_ERR	include/unionerror.h	/^	USYCERR_INIT_CHKCODE_ERR,	    \/\/初始化请求应答校验码错误$/;"	e	enum:UnionSynchErr
+USYCERR_INIT_RANDM_LEN_ERR	include/unionerror.h	/^	USYCERR_INIT_RANDM_LEN_ERR,	    \/\/初始化请求应答随机数长度错误$/;"	e	enum:UnionSynchErr
+USYCERR_MEM_ALLOC_ERR	include/unionerror.h	/^	USYCERR_MEM_ALLOC_ERR,	        \/\/没有足够的计算资源$/;"	e	enum:UnionSynchErr
+USYCERR_OS_IS_EMPTY	include/unionerror.h	/^	USYCERR_OS_IS_EMPTY,			\/\/操作系统不能为空$/;"	e	enum:UnionSynchErr
+USYCERR_OS_UNMATCH_SPV	include/unionerror.h	/^	USYCERR_OS_UNMATCH_SPV,			\/\/操作系统与SPV不匹配$/;"	e	enum:UnionSynchErr
+USYCERR_RAND_LENTH_ERR	include/unionerror.h	/^	USYCERR_RAND_LENTH_ERR,         \/\/随机数长度错误$/;"	e	enum:UnionSynchErr
+USYCERR_REQ_ATTR_INCPL	include/unionerror.h	/^	USYCERR_REQ_ATTR_INCPL,         \/\/请求信息中缺少属性$/;"	e	enum:UnionSynchErr
+USYCERR_REQ_CHK_ENCCHK	include/unionerror.h	/^	USYCERR_REQ_CHK_ENCCHK,	        \/\/密钥校验密文值校验错误$/;"	e	enum:UnionSynchErr
+USYCERR_REQ_CHK_ENCLEN	include/unionerror.h	/^	USYCERR_REQ_CHK_ENCLEN,	        \/\/密钥校验密文值长度错误$/;"	e	enum:UnionSynchErr
+USYCERR_REQ_INCOMPLETE	include/unionerror.h	/^	USYCERR_REQ_INCOMPLETE,         \/\/请求信息节点不存在或缺少属性$/;"	e	enum:UnionSynchErr
+USYCERR_REQ_INITCLG_ENCCHK	include/unionerror.h	/^	USYCERR_REQ_INITCLG_ENCCHK,	    \/\/密钥初始化挑战校验密文值错误$/;"	e	enum:UnionSynchErr
+USYCERR_REQ_UNKNOWN	include/unionerror.h	/^	USYCERR_REQ_UNKNOWN,	        \/\/未识别的请求类型$/;"	e	enum:UnionSynchErr
+USYCERR_RES_ATTR_INCPL	include/unionerror.h	/^	USYCERR_RES_ATTR_INCPL,         \/\/应答信息中缺少属性$/;"	e	enum:UnionSynchErr
+USYCERR_RES_INCOMPLETE	include/unionerror.h	/^	USYCERR_RES_INCOMPLETE,         \/\/应答信息节点不存在或缺少errcode属性$/;"	e	enum:UnionSynchErr
+USYCERR_XMLCREATE_ERR	include/unionerror.h	/^	USYCERR_XMLCREATE_ERR,			\/\/无法创建XML数据结构$/;"	e	enum:UnionSynchErr
+USYCERR_XMLLENTH_MAX	include/unionerror.h	/^	USYCERR_XMLLENTH_MAX,			\/\/xml数据超过了最大长度(64KB)$/;"	e	enum:UnionSynchErr
+UWINERR_ACCESS_DENIED	include/unionerror.h	/^	UWINERR_ACCESS_DENIED,$/;"	e	enum:__anon2
+UWINERR_BAD_PASSWORD	include/unionerror.h	/^	UWINERR_BAD_PASSWORD,$/;"	e	enum:__anon2
+UWINERR_CONNECT_FAILED	include/unionerror.h	/^	UWINERR_CONNECT_FAILED,$/;"	e	enum:__anon2
+UWINERR_GEN_RAND_PASS_FAILED	include/unionerror.h	/^	UWINERR_GEN_RAND_PASS_FAILED,$/;"	e	enum:__anon2
+UWINERR_GROUP_EXISTS	include/unionerror.h	/^	UWINERR_GROUP_EXISTS,$/;"	e	enum:__anon2
+UWINERR_GROUP_NOT_FOUND	include/unionerror.h	/^	UWINERR_GROUP_NOT_FOUND,$/;"	e	enum:__anon2
+UWINERR_INVALID_COMPUTER	include/unionerror.h	/^	UWINERR_INVALID_COMPUTER,$/;"	e	enum:__anon2
+UWINERR_INVALID_MEMBER	include/unionerror.h	/^	UWINERR_INVALID_MEMBER,$/;"	e	enum:__anon2
+UWINERR_INVALID_PARAM	include/unionerror.h	/^	UWINERR_INVALID_PARAM = 0x601,$/;"	e	enum:__anon2
+UWINERR_INVALID_PASS	include/unionerror.h	/^	UWINERR_INVALID_PASS,$/;"	e	enum:__anon2
+UWINERR_LAST_ADMIN	include/unionerror.h	/^	UWINERR_LAST_ADMIN,$/;"	e	enum:__anon2
+UWINERR_MALLOC_FAILED	include/unionerror.h	/^	UWINERR_MALLOC_FAILED,$/;"	e	enum:__anon2
+UWINERR_MEMBER_IN_ALIAS	include/unionerror.h	/^	UWINERR_MEMBER_IN_ALIAS,$/;"	e	enum:__anon2
+UWINERR_MORE_DATA	include/unionerror.h	/^	UWINERR_MORE_DATA,$/;"	e	enum:__anon2
+UWINERR_NOT_PRIMARY	include/unionerror.h	/^	UWINERR_NOT_PRIMARY,$/;"	e	enum:__anon2
+UWINERR_NO_SUCH_MEMBER	include/unionerror.h	/^	UWINERR_NO_SUCH_MEMBER,$/;"	e	enum:__anon2
+UWINERR_PASS_TOO_SHORT	include/unionerror.h	/^	UWINERR_PASS_TOO_SHORT,$/;"	e	enum:__anon2
+UWINERR_READ_SOCKET	include/unionerror.h	/^	UWINERR_READ_SOCKET,$/;"	e	enum:__anon2
+UWINERR_SMB_ACCESS_DENIED	include/unionerror.h	/^	UWINERR_SMB_ACCESS_DENIED,$/;"	e	enum:__anon2
+UWINERR_SMB_CONNECT_FAILED	include/unionerror.h	/^	UWINERR_SMB_CONNECT_FAILED,$/;"	e	enum:__anon2
+UWINERR_SMB_GEN_RAND_PASS_FAILED	include/unionerror.h	/^	UWINERR_SMB_GEN_RAND_PASS_FAILED,$/;"	e	enum:__anon2
+UWINERR_SMB_INVALID_ARGU	include/unionerror.h	/^	UWINERR_SMB_INVALID_ARGU = 0x681,$/;"	e	enum:__anon2
+UWINERR_SMB_LOGON_FAILED	include/unionerror.h	/^	UWINERR_SMB_LOGON_FAILED,$/;"	e	enum:__anon2
+UWINERR_SMB_NEWPASS_MISMATCH	include/unionerror.h	/^	UWINERR_SMB_NEWPASS_MISMATCH,$/;"	e	enum:__anon2
+UWINERR_SMB_PASSWORD_RESTRICTION	include/unionerror.h	/^	UWINERR_SMB_PASSWORD_RESTRICTION,$/;"	e	enum:__anon2
+UWINERR_SMB_TERMINATE_IN_ADVANCE	include/unionerror.h	/^	UWINERR_SMB_TERMINATE_IN_ADVANCE,$/;"	e	enum:__anon2
+UWINERR_SMB_TIMEOUT	include/unionerror.h	/^	UWINERR_SMB_TIMEOUT,$/;"	e	enum:__anon2
+UWINERR_SMB_TRUST_FAILED	include/unionerror.h	/^	UWINERR_SMB_TRUST_FAILED,$/;"	e	enum:__anon2
+UWINERR_SOCKET_FAILED	include/unionerror.h	/^	UWINERR_SOCKET_FAILED,$/;"	e	enum:__anon2
+UWINERR_STATUS_FORBIDDEN	include/unionerror.h	/^	UWINERR_STATUS_FORBIDDEN,$/;"	e	enum:__anon2
+UWINERR_TRUST_FAILED	include/unionerror.h	/^	UWINERR_TRUST_FAILED,$/;"	e	enum:__anon2
+UWINERR_UNKNOWN	include/unionerror.h	/^	UWINERR_UNKNOWN,$/;"	e	enum:__anon2
+UWINERR_UNSUPPORTED_TYPE	include/unionerror.h	/^	UWINERR_UNSUPPORTED_TYPE,$/;"	e	enum:__anon2
+UWINERR_USER_EXISTS	include/unionerror.h	/^	UWINERR_USER_EXISTS,$/;"	e	enum:__anon2
+UWINERR_USER_NOT_FOUND	include/unionerror.h	/^	UWINERR_USER_NOT_FOUND,$/;"	e	enum:__anon2
+UWINERR_WRITE_SOCKET	include/unionerror.h	/^	UWINERR_WRITE_SOCKET,$/;"	e	enum:__anon2
+UnionErrInfo	Utilities/unionerror/unionerrinfo.h	/^struct UnionErrInfo$/;"	s
+UnionGetErrDetail	Utilities/unionerror/unionerror.c	/^const char *UnionGetErrDetail(int ErrNo)$/;"	f
+UnionGetErrMsg	Utilities/unionerror/unionerror.c	/^const char *UnionGetErrMsg(int ErrNo)$/;"	f
+UnionLicenseErr	include/unionerror.h	/^enum UnionLicenseErr {$/;"	g
+UnionLog	Utilities/unionlog/unionlog.c	/^void UnionLog(const char *file, int line, LogLevel level, const char *format, ...)$/;"	f
+UnionLogDebug	include/unionlog.h	25;"	d
+UnionLogEnd	Utilities/unionlog/unionlog.c	/^void UnionLogEnd(void)$/;"	f
+UnionLogErr	include/unionlog.h	27;"	d
+UnionLogFatal	include/unionlog.h	28;"	d
+UnionLogInfo	include/unionlog.h	26;"	d
+UnionLogInit	Utilities/unionlog/unionlog.c	/^void UnionLogInit(const char *LogPath)$/;"	f
+UnionLogReload	Utilities/unionlog/unionlog.c	/^void UnionLogReload(void)$/;"	f
+UnionSynchErr	include/unionerror.h	/^enum UnionSynchErr {$/;"	g
+WHITE	include/color.h	24;"	d
+YELLOW	include/color.h	16;"	d
+_COLOR_H_	include/color.h	2;"	d
+_SORT_H	applications/SortManager/sort.h	2;"	d
+__DEBUG__	include/color.h	35;"	d
+bubbleSort	applications/SortManager/sort.cpp	/^void bubbleSort(int *arr, int n)$/;"	f
+main	Utilities/unionlog/unionlog.c	/^int main()$/;"	f
+main	applications/SortManager/main.cpp	/^int main(int argc, char **argv)$/;"	f
+main	applications/TipsManager/main.c	/^int main()$/;"	f
+printArr	applications/SortManager/sort.cpp	/^void printArr(int *arr, int n)$/;"	f
+swap_pointer	applications/SortManager/sort.cpp	/^void swap_pointer(int *x, int *y)$/;"	f
+swap_qp	applications/SortManager/sort.cpp	/^void swap_qp(int *(&x), int *(&y))$/;"	f
+swap_quote	applications/SortManager/sort.cpp	/^void swap_quote(int &x, int &y)$/;"	f

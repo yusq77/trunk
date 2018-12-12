@@ -1,0 +1,13 @@
+CC=gcc
+CXX=g++
+
+CFLAGS = -Wall
+CXXFLAGS = -Wall
+
+BINDEST=~/spv/bin
+CONFDEST=~/spv/etc
+ifneq ($(DEBUG),)
+    CFLAGS += -g -DDEBUG 
+	CXXFLAGS += -g -DDEBUG 
+endif
+

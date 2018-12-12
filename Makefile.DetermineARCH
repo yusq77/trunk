@@ -1,0 +1,6 @@
+ARCH=x86;
+ifeq ($(shell getconf LONG_BIT), 64) 
+    ARCH=x64
+else
+    ARCH=x86
+endif 

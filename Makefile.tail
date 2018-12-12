@@ -1,0 +1,15 @@
+all: $(BINARY) $(LIBS)
+ifneq ($(DIRS),)
+	@for dir in $(DIRS); do make -C $$dir $(@:.nested=) $(ACE_NESTED_COMMAND) ; done
+endif # DIRS
+
+install: $(BINARY) $(LIBS)
+ifneq ($(DIRS),)
+	@for dir in $(DIRS); do make install -C $$dir $(@:.nested=) $(ACE_NESTED_COMMAND) ; done
+endif # DIRS
+
+clean:
+	rm -f *.o *.a *.so $(BINARY) $(LIBS)
+ifneq ($(DIRS),)
+	@for dir in $(DIRS); do make -C $$dir $(@:.nested=) $(ACE_NESTED_COMMAND) ; done
+endif # DIRS

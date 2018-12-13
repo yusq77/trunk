@@ -5,8 +5,8 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 AppName	Utilities/unionlog/unionlog.c	/^static char AppName[256] = {0}; \/\/ ��ǰ������$/;"	v	file:
-BIN	applications/SortManager/Makefile	/^BIN= test$/;"	m
-BIN	applications/TipsManager/Makefile	/^BIN= test$/;"	m
+BIN	application/SortManager/Makefile	/^BIN= test$/;"	m
+BIN	application/TipsManager/Makefile	/^BIN= test$/;"	m
 BINARY	Utilities/unionlog/Makefile	/^BINARY=logTest$/;"	m
 BLACK	include/color.h	9;"	d
 BLINK	include/color.h	28;"	d
@@ -14,11 +14,11 @@ BLUE	include/color.h	17;"	d
 BOLD	include/color.h	26;"	d
 BROWN	include/color.h	15;"	d
 CC	Utilities/unionlog/Makefile	/^CC=gcc$/;"	m
-CC	applications/SortManager/Makefile	/^CC=g++$/;"	m
-CC	applications/TipsManager/Makefile	/^CC=gcc$/;"	m
+CC	application/SortManager/Makefile	/^CC=g++$/;"	m
+CC	application/TipsManager/Makefile	/^CC=gcc$/;"	m
 CFLAGS	Utilities/unionlog/Makefile	/^CFLAGS=-Wall -g -Wno-pointer-sign$/;"	m
-CFLAGS	applications/SortManager/Makefile	/^CFLAGS=-g -Wall -I..\/..\/include$/;"	m
-CFLAGS	applications/TipsManager/Makefile	/^CFLAGS=-I..\/..\/include -g -Wall -Wno-pointer-sign$/;"	m
+CFLAGS	application/SortManager/Makefile	/^CFLAGS=-g -Wall -I..\/..\/include$/;"	m
+CFLAGS	application/TipsManager/Makefile	/^CFLAGS=-I..\/..\/include -g -Wall -Wno-pointer-sign$/;"	m
 CLEAR	include/color.h	31;"	d
 CLRLINE	include/color.h	32;"	d
 CMPLE_LIB_PATH	Utilities/unionerror/Makefile	/^CMPLE_LIB_PATH = ..\/..\/lib64\/$/;"	m
@@ -35,7 +35,7 @@ DEFAULT_LOG_NAME	Utilities/unionlog/unionlog.c	8;"	d	file:
 DEFAULT_LOG_PATH	Utilities/unionlog/unionlog.c	7;"	d	file:
 DIRS	Makefile	/^DIRS=Utilities\\$/;"	m
 DIRS	Utilities/Makefile	/^DIRS=unionlog\\$/;"	m
-DIRS	applications/Makefile	/^DIRS=TipsManager\\$/;"	m
+DIRS	application/Makefile	/^DIRS=TipsManager\\$/;"	m
 ErrDetailInfo	Utilities/unionerror/unionerrinfo.h	/^    char *ErrDetailInfo;$/;"	m	struct:UnionErrInfo
 ErrMsg	Utilities/unionerror/unionerrinfo.h	/^    char *ErrMsg;$/;"	m	struct:UnionErrInfo
 ErrNo	Utilities/unionerror/unionerrinfo.h	/^    int ErrNo;$/;"	m	struct:UnionErrInfo
@@ -49,15 +49,15 @@ INSTALL_LIB_PATH	Utilities/unionerror/Makefile	/^INSTALL_LIB_PATH = \/usr\/lib64
 INSTALL_LIB_PATH	Utilities/unionlog/Makefile	/^	INSTALL_LIB_PATH = \/usr\/lib64\/$/;"	m
 INSTALL_LIB_PATH	Utilities/unionlog/Makefile	/^	INSTALL_LIB_PATH = \/usr\/lib\/$/;"	m
 INSTALL_LIB_PATH	Utilities/unionlog/Makefile	/^INSTALL_LIB_PATH = \/usr\/lib\/$/;"	m
-LEN	applications/SortManager/main.cpp	9;"	d	file:
+LEN	application/SortManager/main.cpp	10;"	d	file:
 LIBBINARY	Utilities/unionerror/Makefile	/^LIBBINARY = libunionerror.so$/;"	m
 LIBLD	Utilities/unionlog/Makefile	/^LIBLD= -L..\/..\/lib64 -lunionlog$/;"	m
 LIBPATH	Utilities/unionlog/Makefile	/^LIBPATH=..\/..\/lib64$/;"	m
 LIBS	Utilities/unionlog/Makefile	/^LIBS=libunionlog.so$/;"	m
-LIBS	applications/SortManager/Makefile	/^	LIBS=-L..\/..\/lib -lunionlog$/;"	m
-LIBS	applications/SortManager/Makefile	/^	LIBS=-L..\/..\/lib64 -lunionlog$/;"	m
-LIBS	applications/TipsManager/Makefile	/^	LIBS=-L..\/..\/lib -lunionlog$/;"	m
-LIBS	applications/TipsManager/Makefile	/^	LIBS=-L..\/..\/lib64 -lunionlog$/;"	m
+LIBS	application/SortManager/Makefile	/^	LIBS=-L..\/..\/lib -lunionlog$/;"	m
+LIBS	application/SortManager/Makefile	/^	LIBS=-L..\/..\/lib64 -lunionlog$/;"	m
+LIBS	application/TipsManager/Makefile	/^	LIBS=-L..\/..\/lib -lunionlog$/;"	m
+LIBS	application/TipsManager/Makefile	/^	LIBS=-L..\/..\/lib64 -lunionlog$/;"	m
 LOG_CONFIG_FILE	Utilities/unionlog/unionlog.c	9;"	d	file:
 L_BLACK	include/color.h	10;"	d
 L_BLUE	include/color.h	18;"	d
@@ -69,10 +69,13 @@ LogFile	Utilities/unionlog/unionlog.c	/^static FILE *LogFile = NULL; \/\/ ��־��
 LogLevel	include/unionlog.h	/^}LogLevel;$/;"	t	typeref:enum:__anon1
 NONE	include/color.h	8;"	d
 PURPLE	include/color.h	19;"	d
+Partition	application/SortManager/sort.cpp	/^int Partition(int * arr, int start, int end)$/;"	f
 RADIUS_MYSQL_ACCOUNT_UNIQUE_ERR	include/unionerror.h	349;"	d
 RED	include/color.h	11;"	d
 REVERSE	include/color.h	29;"	d
+Randomized_Partition	application/SortManager/sort.cpp	/^int Randomized_Partition(int * arr, int start, int end)$/;"	f
 SKVErrInfo	Utilities/unionerror/unionerrinfo.h	/^struct UnionErrInfo SKVErrInfo[] = {$/;"	v	typeref:struct:UnionErrInfo
+SORT_H	application/SortManager/sort.h	2;"	d
 ULERR_ANALY_ATVTIMES_FORMAT	include/unionerror.h	/^	ULERR_ANALY_ATVTIMES_FORMAT,              \/\/license明文数据激活次数格式错误$/;"	e	enum:UnionLicenseErr
 ULERR_ANALY_AUTHINFO_MAXLEN	include/unionerror.h	/^	ULERR_ANALY_AUTHINFO_MAXLEN,              \/\/license明文数据授权信息长度错误$/;"	e	enum:UnionLicenseErr
 ULERR_ANALY_FIELD_NUM	include/unionerror.h	/^	ULERR_ANALY_FIELD_NUM,                    \/\/license明文数据域个数错误$/;"	e	enum:UnionLicenseErr
@@ -426,13 +429,17 @@ UnionSynchErr	include/unionerror.h	/^enum UnionSynchErr {$/;"	g
 WHITE	include/color.h	24;"	d
 YELLOW	include/color.h	16;"	d
 _COLOR_H_	include/color.h	2;"	d
-_SORT_H	applications/SortManager/sort.h	2;"	d
 __DEBUG__	include/color.h	35;"	d
-bubbleSort	applications/SortManager/sort.cpp	/^void bubbleSort(int *arr, int n)$/;"	f
+bubbleSort	application/SortManager/sort.cpp	/^void bubbleSort(int *arr, int n)$/;"	f
+cocktailSort	application/SortManager/sort.cpp	/^void cocktailSort(int *arr, int n)$/;"	f
 main	Utilities/unionlog/unionlog.c	/^int main()$/;"	f
-main	applications/SortManager/main.cpp	/^int main(int argc, char **argv)$/;"	f
-main	applications/TipsManager/main.c	/^int main()$/;"	f
-printArr	applications/SortManager/sort.cpp	/^void printArr(int *arr, int n)$/;"	f
-swap_pointer	applications/SortManager/sort.cpp	/^void swap_pointer(int *x, int *y)$/;"	f
-swap_qp	applications/SortManager/sort.cpp	/^void swap_qp(int *(&x), int *(&y))$/;"	f
-swap_quote	applications/SortManager/sort.cpp	/^void swap_quote(int &x, int &y)$/;"	f
+main	application/SortManager/main.cpp	/^int main(int argc, char **argv)$/;"	f
+main	application/TipsManager/main.c	/^int main()$/;"	f
+partition	application/SortManager/sort.cpp	/^int partition(int arr[],int left,int right)$/;"	f
+partition_2	application/SortManager/sort.cpp	/^int partition_2(int *arr, int left, int right)$/;"	f
+printArr	application/SortManager/sort.cpp	/^void printArr(int *arr, int n)$/;"	f
+quickSort_2	application/SortManager/sort.cpp	/^void quickSort_2(int arr[],int left,int right)$/;"	f
+quickSort_3	application/SortManager/sort.cpp	/^void quickSort_3(int *a, int start, int end)$/;"	f
+swap_pointer	application/SortManager/sort.cpp	/^void swap_pointer(int *x, int *y)$/;"	f
+swap_qp	application/SortManager/sort.cpp	/^void swap_qp(int *(&x), int *(&y))$/;"	f
+swap_quote	application/SortManager/sort.cpp	/^void swap_quote(int &x, int &y)$/;"	f

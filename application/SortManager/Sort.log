@@ -226,3 +226,142 @@
 18-12-11 17:22:34 test:sort.cpp:40 $ 10
 18-12-11 17:22:34 test:sort.cpp:42 $ 
 
+18-12-12 13:56:59 test:sort.cpp:40 $ 1
+18-12-12 13:56:59 test:sort.cpp:40 $ 2
+18-12-12 13:56:59 test:sort.cpp:40 $ 3
+18-12-12 13:56:59 test:sort.cpp:40 $ 4
+18-12-12 13:56:59 test:sort.cpp:40 $ 5
+18-12-12 13:56:59 test:sort.cpp:40 $ 6
+18-12-12 13:56:59 test:sort.cpp:40 $ 7
+18-12-12 13:56:59 test:sort.cpp:40 $ 8
+18-12-12 13:56:59 test:sort.cpp:40 $ 9
+18-12-12 13:56:59 test:sort.cpp:40 $ 10
+18-12-12 13:56:59 test:sort.cpp:42 $ 
+
+18-12-12 13:57:59 test:sort.cpp:40 $ 1
+18-12-12 13:57:59 test:sort.cpp:40 $ 2
+18-12-12 13:57:59 test:sort.cpp:40 $ 3
+18-12-12 13:57:59 test:sort.cpp:40 $ 4
+18-12-12 13:57:59 test:sort.cpp:40 $ 5
+18-12-12 13:57:59 test:sort.cpp:40 $ 6
+18-12-12 13:57:59 test:sort.cpp:40 $ 7
+18-12-12 13:57:59 test:sort.cpp:40 $ 8
+18-12-12 13:57:59 test:sort.cpp:40 $ 9
+18-12-12 13:57:59 test:sort.cpp:40 $ 10
+18-12-12 13:57:59 test:sort.cpp:42 $ 
+
+18-12-12 14:53:28 test:sort.cpp:40 $ 1
+18-12-12 14:53:28 test:sort.cpp:40 $ 2
+18-12-12 14:53:28 test:sort.cpp:40 $ 3
+18-12-12 14:53:28 test:sort.cpp:40 $ 4
+18-12-12 14:53:28 test:sort.cpp:40 $ 5
+18-12-12 14:53:28 test:sort.cpp:40 $ 6
+18-12-12 14:53:28 test:sort.cpp:40 $ 7
+18-12-12 14:53:28 test:sort.cpp:40 $ 8
+18-12-12 14:53:28 test:sort.cpp:40 $ 9
+18-12-12 14:53:28 test:sort.cpp:40 $ 10
+18-12-12 14:53:28 test:sort.cpp:42 $ 
+
+18-12-12 15:44:02 test:main.cpp:31 $ Check failed at main.cpp:31 in main(): i
+18-12-12 15:44:02 test:sort.cpp:40 $ 1
+18-12-12 15:44:02 test:sort.cpp:40 $ 2
+18-12-12 15:44:02 test:sort.cpp:40 $ 3
+18-12-12 15:44:02 test:sort.cpp:40 $ 4
+18-12-12 15:44:02 test:sort.cpp:40 $ 5
+18-12-12 15:44:02 test:sort.cpp:40 $ 6
+18-12-12 15:44:02 test:sort.cpp:40 $ 7
+18-12-12 15:44:02 test:sort.cpp:40 $ 8
+18-12-12 15:44:02 test:sort.cpp:40 $ 9
+18-12-12 15:44:02 test:sort.cpp:40 $ 10
+18-12-12 15:44:02 test:sort.cpp:42 $ 
+
+18-12-12 16:18:41 test:main.cpp:29 $ <-- enter main -->
+18-12-12 16:18:41 test:sort.cpp:40 $ 1
+18-12-12 16:18:41 test:sort.cpp:40 $ 2
+18-12-12 16:18:41 test:sort.cpp:40 $ 3
+18-12-12 16:18:41 test:sort.cpp:40 $ 4
+18-12-12 16:18:41 test:sort.cpp:40 $ 5
+18-12-12 16:18:41 test:sort.cpp:40 $ 6
+18-12-12 16:18:41 test:sort.cpp:40 $ 7
+18-12-12 16:18:41 test:sort.cpp:40 $ 8
+18-12-12 16:18:41 test:sort.cpp:40 $ 9
+18-12-12 16:18:41 test:sort.cpp:40 $ 10
+18-12-12 16:18:41 test:sort.cpp:42 $ 
+
+18-12-12 16:19:01 test:sort.cpp:40 $ 1
+18-12-12 16:19:01 test:sort.cpp:40 $ 2
+18-12-12 16:19:01 test:sort.cpp:40 $ 3
+18-12-12 16:19:01 test:sort.cpp:40 $ 4
+18-12-12 16:19:01 test:sort.cpp:40 $ 5
+18-12-12 16:19:01 test:sort.cpp:40 $ 6
+18-12-12 16:19:01 test:sort.cpp:40 $ 7
+18-12-12 16:19:01 test:sort.cpp:40 $ 8
+18-12-12 16:19:01 test:sort.cpp:40 $ 9
+18-12-12 16:19:01 test:sort.cpp:40 $ 10
+18-12-12 16:19:01 test:sort.cpp:42 $ 
+
+18-12-12 16:27:08 test:main.cpp:29 $ <-- enter main -->
+18-12-12 16:27:08 test:sort.cpp:40 $ 1
+18-12-12 16:27:08 test:sort.cpp:40 $ 2
+18-12-12 16:27:08 test:sort.cpp:40 $ 3
+18-12-12 16:27:08 test:sort.cpp:40 $ 4
+18-12-12 16:27:08 test:sort.cpp:40 $ 5
+18-12-12 16:27:08 test:sort.cpp:40 $ 6
+18-12-12 16:27:08 test:sort.cpp:40 $ 7
+18-12-12 16:27:08 test:sort.cpp:40 $ 8
+18-12-12 16:27:08 test:sort.cpp:40 $ 9
+18-12-12 16:27:08 test:sort.cpp:40 $ 10
+18-12-12 16:27:08 test:sort.cpp:42 $ 
+
+18-12-12 16:28:22 test:main.cpp:29 $ <-- enter main -->
+18-12-12 16:28:22 test:sort.cpp:40 $ 1
+18-12-12 16:28:22 test:sort.cpp:40 $ 2
+18-12-12 16:28:22 test:sort.cpp:40 $ 3
+18-12-12 16:28:22 test:sort.cpp:40 $ 4
+18-12-12 16:28:22 test:sort.cpp:40 $ 5
+18-12-12 16:28:22 test:sort.cpp:40 $ 6
+18-12-12 16:28:22 test:sort.cpp:40 $ 7
+18-12-12 16:28:22 test:sort.cpp:40 $ 8
+18-12-12 16:28:22 test:sort.cpp:40 $ 9
+18-12-12 16:28:22 test:sort.cpp:40 $ 10
+18-12-12 16:28:22 test:sort.cpp:42 $ 
+
+18-12-12 16:30:30 test:main.cpp:29 $ <-- enter main -->
+18-12-12 16:30:30 test:sort.cpp:40 $ 1
+18-12-12 16:30:30 test:sort.cpp:40 $ 2
+18-12-12 16:30:30 test:sort.cpp:40 $ 3
+18-12-12 16:30:30 test:sort.cpp:40 $ 4
+18-12-12 16:30:30 test:sort.cpp:40 $ 5
+18-12-12 16:30:30 test:sort.cpp:40 $ 6
+18-12-12 16:30:30 test:sort.cpp:40 $ 7
+18-12-12 16:30:30 test:sort.cpp:40 $ 8
+18-12-12 16:30:30 test:sort.cpp:40 $ 9
+18-12-12 16:30:30 test:sort.cpp:40 $ 10
+18-12-12 16:30:30 test:sort.cpp:42 $ 
+
+18-12-12 16:31:25 test:main.cpp:29 $ <-- enter main -->
+18-12-12 16:31:25 test:sort.cpp:40 $ 1
+18-12-12 16:31:25 test:sort.cpp:40 $ 2
+18-12-12 16:31:25 test:sort.cpp:40 $ 3
+18-12-12 16:31:25 test:sort.cpp:40 $ 4
+18-12-12 16:31:25 test:sort.cpp:40 $ 5
+18-12-12 16:31:25 test:sort.cpp:40 $ 6
+18-12-12 16:31:25 test:sort.cpp:40 $ 7
+18-12-12 16:31:25 test:sort.cpp:40 $ 8
+18-12-12 16:31:25 test:sort.cpp:40 $ 9
+18-12-12 16:31:25 test:sort.cpp:40 $ 10
+18-12-12 16:31:25 test:sort.cpp:42 $ 
+
+18-12-12 16:32:01 test:main.cpp:29 $ <-- enter main -->
+18-12-12 16:32:01 test:sort.cpp:40 $ 1
+18-12-12 16:32:01 test:sort.cpp:40 $ 2
+18-12-12 16:32:01 test:sort.cpp:40 $ 3
+18-12-12 16:32:01 test:sort.cpp:40 $ 4
+18-12-12 16:32:01 test:sort.cpp:40 $ 5
+18-12-12 16:32:01 test:sort.cpp:40 $ 6
+18-12-12 16:32:01 test:sort.cpp:40 $ 7
+18-12-12 16:32:01 test:sort.cpp:40 $ 8
+18-12-12 16:32:01 test:sort.cpp:40 $ 9
+18-12-12 16:32:01 test:sort.cpp:40 $ 10
+18-12-12 16:32:01 test:sort.cpp:42 $ 
+

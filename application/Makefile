@@ -1,4 +1,4 @@
-include Makefile.head
+include ../Makefile.head
 default:all
 
 ####
@@ -7,9 +7,10 @@ DIRS=TipsManager\
 	SwordMeansOffer\
 	ProcessManager\
 	LeetcodeManager\
+	DataStructure\
 ####
 
 build: clean all 
 
 ####
-include Makefile.tail
+include ../Makefile.tail

@@ -27,7 +27,6 @@ int main(int argc, char **argv)
 {
     UnionLogInit("./Sort.log");
     UnionLogErr("<-- enter main -->");
-    UnionLogDebug("<-- enter main -->");
     int i = 0;
     UNUSED(i);
 

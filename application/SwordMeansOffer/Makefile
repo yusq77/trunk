@@ -1,6 +1,6 @@
 include ../../Makefile.DetermineARCH
 
-CC=gcc
+CC=g++
 CFLAGS=-g -Wall -I../../include
 
 BIN= test
@@ -12,7 +12,7 @@ else
 endif
 
 all: $(BIN) 
-test:main.c tip.c
+test:main.c sort.cpp
 	$(CC) -g -o $@ $^ $(CFLAGS) $(LIBS) -Wl,-rpath=../../lib64/
 		cp -f $@ ../../bin/
 clean:

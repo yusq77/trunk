@@ -12,7 +12,7 @@ else
 endif
 
 all: $(BIN) 
-test:main.c tip.c
+test:main.c leetcode.c
 	$(CC) -g -o $@ $^ $(CFLAGS) $(LIBS) -Wl,-rpath=../../lib64/
 		cp -f $@ ../../bin/
 clean:

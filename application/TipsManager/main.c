@@ -1,30 +1,56 @@
 /*  Copyright (C) 2018 * Ltd. All rights reserved.
- *      Create date : 2018-12-05 11:31:53
+ *      Create date : 2018-12-18 11:01:07
  *================================================*/
 
-#include "unionlog.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <limits.h>
 #include <dirent.h>
 #include <malloc.h>
+#include "tips.h"
 
+/* Test Function Type */
+/**** Test Template ******/
+typedef void(*TESTFUNC)(void);
+static int iscontinue = 1;
 
-int main()
+#define TEST_CYCLE(c, f, s) \
+{ \
+    c = 0; \
+    while(iscontinue) \
+    { \
+        f = s[c++]; \
+        if(f == NULL) break; \
+        f(); \
+    } \
+}
+
+void setLocaleTest()
 {
-    UnionLogInit("./test.log");
-    DIR *dirp;
-    struct dirent *dp;
+    setLocale();
+}
 
-    chdir("./");
-    char *s = strdup(getcwd( NULL, 0));
-    UnionLogErr("cur pwd= %s", s);
-    free(s);
-    s = NULL;
 
-    dirp = opendir("."); //打开目录指针
-    while ((dp = readdir(dirp)) != NULL)
-    { //通过目录指针读目录
-        printf("%s\n", dp->d_name );
-    }
-    (void) closedir(dirp); //关闭目录
+TESTFUNC TestFunc_C4[] =
+{
+    setLocaleTest,
+    NULL
+};
+
+//Test bak
+TESTFUNC TestFunc_X[] =
+{
+    NULL
+};
+
+int main(int argc, char *argv[])
+{
+    int cnt = 0;
+    iscontinue = 1;
+    TESTFUNC pFunc = NULL;
+
+    TEST_CYCLE(cnt, pFunc,TestFunc_C4)
 
     return 0;
 }
